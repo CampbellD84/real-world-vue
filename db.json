@@ -71,6 +71,20 @@
           "name": "Mary Gordon"
         }
       ]
+    },
+    {
+      "id": 6715683,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Douglas Campbell"
+      },
+      "title": "Tree Planting",
+      "description": "Planting trees",
+      "location": "Park",
+      "date": "2020-04-18T20:16:00.000Z",
+      "time": "11:00",
+      "attendees": []
     }
   ]
 }
